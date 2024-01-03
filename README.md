@@ -29,13 +29,9 @@ i am using the makedown lanuage to edit this website
 ##### *reserve* 
 
 + [malware check ](https://vx-underground.org)
-+ 
 + [REMnux：用於惡意軟體分析的Linux工具包](https://docs.remnux.org/install-distro/install-from-scratch)
-+ 
 + [detect malware and other breaches](https://www.virustotal.com/gui/home/upload)
-+ 
 + [book x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/assembly64.pdf)
-+
 + [Learn Assembly - Tutorials, Courses, and Books📕](https://gitconnected.com/learn/assembly-language)
 + [PicoCTF 2022 reserve engining ](https://www.youtube.com/watch?v=1OdYAzk5fGE&list=PL1H1sBF1VAKUp9mElvX079qK3UNI2b3ek)
 ##### *pwn*
