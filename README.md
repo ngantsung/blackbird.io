@@ -65,6 +65,7 @@ i am using the makedown lanuage to edit this website
 + typrscipt 
 + php
 + java
++ [powershell](https://www.youtube.com/watch?v=TUNNmVeyjW0&list=PL1H1sBF1VAKXqO_N3ZNP0aL15miJcUhw7)
 
 
 
