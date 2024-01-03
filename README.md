@@ -27,12 +27,16 @@ i am using the makedown lanuage to edit this website
 ##### *crypto*
 ##### *reserve* 
 
-+ [malware check ](https://vx-underground.org) this website can check a lot of malware
++ [malware check ](https://vx-underground.org)
++ 
 + [REMnux：用於惡意軟體分析的Linux工具包](https://docs.remnux.org/install-distro/install-from-scratch)
++ 
 + [Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.](https://www.virustotal.com/gui/home/upload)
-+ [book x86-64 Assembly Language Programming with Ubuntu
-](http://www.egr.unlv.edu/~ed/assembly64.pdf)
-+ [Learn Assembly - Tutorials, Courses, and Books📕]  (https://gitconnected.com/learn/assembly-language)
++ 
++ [book x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/assembly64.pdf)
++
++ [Learn Assembly - Tutorials, Courses, and Books📕](https://gitconnected.com/learn/assembly-language)
++ 
 ##### *pwn*
 ##### *mico* 
 ##### *everything*
