@@ -37,8 +37,9 @@ i am using the makedown lanuage to edit this website
 + [book x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/assembly64.pdf)
 +
 + [Learn Assembly - Tutorials, Courses, and Books📕](https://gitconnected.com/learn/assembly-language)
-+ 
++ [PicoCTF 2022 reserve engining ](https://www.youtube.com/watch?v=1OdYAzk5fGE&list=PL1H1sBF1VAKUp9mElvX079qK3UNI2b3ek)
 ##### *pwn*
++ (Intro/Basics/Setup - Buffer Overflows - Intro to Binary Exploitation (Pwn))[https://www.youtube.com/watch?v=wa3sMSdLyHw&list=PLHUKi1UlEgOIc07Rfk2Jgb5fZbxDPec94]
 ##### *mico* 
 ##### *everything*
 
