@@ -62,6 +62,7 @@ i am using the makedown lanuage to edit this website
 + typrscipt 
 + php
 + java
++ rust
 + [powershell](https://www.youtube.com/watch?v=TUNNmVeyjW0&list=PL1H1sBF1VAKXqO_N3ZNP0aL15miJcUhw7)
 +  [x86 Assembly Language ](https://www.youtube.com/watch?v=wLXIWKUWpSs&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe&index=1)
 
