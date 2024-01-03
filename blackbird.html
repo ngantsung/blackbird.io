@@ -3,73 +3,86 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blackbird</title>
+    <title>3D Background Example</title>
     <style>
-        body {
+        body, html {
+            height: 100%;
+            margin: 0;
+            perspective: 1px;
+            transform-style: preserve-3d;
             background-color: black;
             color: white;
             font-family: Arial, sans-serif;
         }
+
+        .background {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            transform: translateZ(-2px) scale(3);
+            background: url('path-to-your-background-image.jpg') no-repeat center center;
+            background-size: cover;
+            z-index: -1;
+        }
+
+        .content {
+            position: relative;
+            z-index: 1;
+            padding: 20px;
+        }
+
         table {
             width: 100%;
+            border-collapse: collapse;
         }
+
         th, td {
             border: 1px solid white;
             padding: 8px;
+            text-align: left;
         }
+
         a {
             color: lightblue;
         }
-        /* Add any additional styles here */
+
+        /* Additional styling as needed */
     </style>
 </head>
 <body>
-    <h1>Blackbird</h1>
-    <p><strong>i am using the markdown language to edit this website</strong></p>
-    <table>
-        <tr>
-            <th>Team member</th>
-            <th>Tasks</th>
-            <th>gmail</th>
-        </tr>
-        <tr>
-            <td>haydon</td>
-            <td>reserve, pwn</td>
-            <td>ngmantsung0624@gmail.com</td>
-        </tr>
-        <tr>
-            <td>Aden</td>
-            <td>web, crypto</td>
-            <td>none</td>
-        </tr>
-        <tr>
-            <td>crystalia</td>
-            <td>web, crypto</td>
-            <td>cryschiangkra@gmail.com</td>
-        </tr>
-    </table>
-    <hr>
-    <h2>1.learning resource</h2>
-    <h5>web</h5>
-    <h5>crypto</h5>
-    <h5>reserve</h5>
-    <ul>
-        <li><a href="https://vx-underground.org">malware check</a> this website can check a lot of malware</li>
-        <li>...</li>
-    </ul>
-    <h5>pwn</h5>
-    <h5>mico</h5>
-    <h5>everything</h5>
-    <hr>
-    <h2>2. <strong>practice (ctf training)</strong></h2>
-    <h5>crypto</h5>
-    <h5>reserve</h5>
-    <h5>pwn</h5>
-    <h5>mico</h5>
-    <h5>everything</h5>
-    <hr>
-    <h2>other</h2>
-    <p>...</p>
-    <p>...</p>
+    <div class="background"></div>
+    <div class="content">
+        <h1>Blackbird</h1>
+        <p><strong>i am using the markdown language to edit this website</strong></p>
+
+        <table>
+            <tr>
+                <th>Team member</th>
+                <th>Tasks</th>
+                <th>gmail</th>
+            </tr>
+            <tr>
+                <td>haydon</td>
+                <td>reserve, pwn</td>
+                <td>ngmantsung0624@gmail.com</td>
+            </tr>
+            <tr>
+                <td>Aden</td>
+                <td>web, crypto</td>
+                <td>none</td>
+            </tr>
+            <tr>
+                <td>crystalia</td>
+                <td>web, crypto</td>
+                <td>cryschiangkra@gmail.com</td>
+            </tr>
+        </table>
+
+        <!-- Additional content goes here -->
+        
+    </div>
 </body>
 </html>
+
