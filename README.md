@@ -24,7 +24,7 @@ i am using the makedown lanuage to edit this website
 ***
 ## 1.learning resource
 ##### *web* 
-+ [training lsit video ](https://www.youtube.com/watch?v=fLUyyhE1rFk&list=PL1H1sBF1VAKXlstTqPdp9L-CfyGoAu80J&index=2)
++ [training list video PicoCTF 2022 ](https://www.youtube.com/watch?v=fLUyyhE1rFk&list=PL1H1sBF1VAKXlstTqPdp9L-CfyGoAu80J&index=2)
 ##### *crypto*
 ##### *reserve* 
 
