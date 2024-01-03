@@ -51,6 +51,20 @@ i am using the makedown lanuage to edit this website
 ##### *mico* 
 ##### *everything*
 
+***
+# programe we need 
++ c++
++ c
++ c#
++ python 
++ go
++ shell 
++ javascipt 
++ typrscipt 
++ php
++ java
+
+
 
 
 ***
