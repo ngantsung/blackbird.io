@@ -45,6 +45,7 @@ i am using the makedown lanuage to edit this website
 ## 2. **practice (ctf training )**
 ##### *crypto*
 ##### *reserve* 
++ [crackmes](https://crackmes.one/lasts/1)
 ##### *pwn*
 ##### *mico* 
 ##### *everything*
