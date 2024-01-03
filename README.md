@@ -9,7 +9,7 @@ i am using the makedown lanuage to edit this website
 | Team member | Tasks | gmail |
 |----------|----------|----------|
 | haydon    | reserve , pwn      | ngmantsung0624@gmail.com     |
-| Aden      | web , crypto    | none     |
+| Aden      | web , crypto    | wachi602@gmail.com     |
 | crystalia      | web , crypto    | cryschiangkra@gmail.com     |
 
 
