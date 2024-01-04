@@ -35,6 +35,7 @@ i am using the makedown lanuage to edit this website
 + [Learn Assembly - Tutorials, Courses, and Books📕](https://gitconnected.com/learn/assembly-language)
 + [PicoCTF 2022 reserve engining ](https://www.youtube.com/watch?v=1OdYAzk5fGE&list=PL1H1sBF1VAKUp9mElvX079qK3UNI2b3ek)
 + [x86 Assembly Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
++ [reserve github ](https://github.com/mytechnotalent/Reverse-Engineering)
 ##### *pwn*
 + [Intro to Binary Exploitation Pwn](https://www.youtube.com/watch?v=wa3sMSdLyHw&list=PLHUKi1UlEgOIc07Rfk2Jgb5fZbxDPec94)
 ##### *mico* 
